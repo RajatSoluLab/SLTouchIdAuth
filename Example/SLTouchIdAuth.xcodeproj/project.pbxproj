@@ -28,11 +28,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1204AC32685E004F65D0C25E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		1204AC32685E004F65D0C25E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		250F0EAC98A4D568B683AC74 /* Pods_SLTouchIdAuth_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SLTouchIdAuth_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		29F0060BFCA2129EC0C0A294 /* Pods_SLTouchIdAuth_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SLTouchIdAuth_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C1E1A9AA218B2E47C465D85 /* Pods-SLTouchIdAuth_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SLTouchIdAuth_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SLTouchIdAuth_Example/Pods-SLTouchIdAuth_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		3D64523A9930F188DD973C88 /* SLTouchIdAuth.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SLTouchIdAuth.podspec; path = ../SLTouchIdAuth.podspec; sourceTree = "<group>"; };
+		3D64523A9930F188DD973C88 /* SLTouchIdAuth.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SLTouchIdAuth.podspec; path = ../SLTouchIdAuth.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* SLTouchIdAuth_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SLTouchIdAuth_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -45,7 +45,7 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		674476EEC28C8A74F197BFE2 /* Pods-SLTouchIdAuth_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SLTouchIdAuth_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SLTouchIdAuth_Tests/Pods-SLTouchIdAuth_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		994A58607F0F69EA8E23A227 /* Pods-SLTouchIdAuth_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SLTouchIdAuth_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SLTouchIdAuth_Tests/Pods-SLTouchIdAuth_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		A539A873A96DCD5615178B32 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		A539A873A96DCD5615178B32 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		DCB2BBC8FC249D2D4E4C23ED /* Pods-SLTouchIdAuth_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SLTouchIdAuth_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-SLTouchIdAuth_Example/Pods-SLTouchIdAuth_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

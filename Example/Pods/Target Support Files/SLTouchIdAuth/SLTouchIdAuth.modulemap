@@ -1,0 +1,6 @@
+framework module SLTouchIdAuth {
+  umbrella header "SLTouchIdAuth-umbrella.h"
+
+  export *
+  module * { export * }
+}
