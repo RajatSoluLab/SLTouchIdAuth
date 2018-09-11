@@ -21,7 +21,7 @@ public class SLTouchIDAuth {
     }
     
     //MARK: Authenticate Touch Id's.
-    
+    //MARK:
     public func openTouchIDAlert(completion: @escaping(_ success: Bool,_ error: Error?) -> ()) {
         // 1
         let context = LAContext()
