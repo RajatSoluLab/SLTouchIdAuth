@@ -22,11 +22,11 @@ Pod::Spec.new do |s|
 Touch id provides to authentication of iOS applicaitons.
                        DESC
 
-  s.homepage         = 'https://github.com/ankitkargathra/SLTouchIdAuth'
+  s.homepage         = 'https://github.com/RajatSoluLab/SLTouchIdAuth'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'ankitkargathra' => 'ankit.kargathra@gmail.com' }
-  s.source           = { :git => 'https://github.com/ankitkargathra/SLTouchIdAuth.git', :tag => s.version.to_s }
+  s.author           = { 'RajatSoluLab' => 'rajat@solulab.com' }
+  s.source           = { :git => 'https://github.com/RajatSoluLab/SLTouchIdAuth.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
