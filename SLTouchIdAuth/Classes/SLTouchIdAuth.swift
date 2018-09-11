@@ -20,6 +20,8 @@ public class SLTouchIDAuth {
         viewController?.present(alertController, animated: true, completion: nil)
     }
     
+    //MARK: Authenticate Touch Id's.
+    
     public func openTouchIDAlert(completion: @escaping(_ success: Bool,_ error: Error?) -> ()) {
         // 1
         let context = LAContext()

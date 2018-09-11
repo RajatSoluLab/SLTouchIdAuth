@@ -34,7 +34,7 @@ if error == nil {
 
 ## Author
 
-ankitkargathra, ankit.kargathra@gmail.com
+ankitkargathra, ankit@solulab.com
 
 ## License
 
