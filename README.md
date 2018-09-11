@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/SLTouchIdAuth.svg?style=flat)](https://cocoapods.org/pods/SLTouchIdAuth)
 [![Platform](https://img.shields.io/cocoapods/p/SLTouchIdAuth.svg?style=flat)](https://cocoapods.org/pods/SLTouchIdAuth)
 
-## Example
+## How to Use.
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 - Got to project -> target -> Linked framework and library
@@ -22,8 +22,6 @@ if error == nil {
 }
 }
 ```
-
-## Requirements
 
 ## Installation
 
